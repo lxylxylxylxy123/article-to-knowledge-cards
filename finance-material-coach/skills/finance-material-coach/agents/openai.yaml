@@ -1,0 +1,4 @@
+interface:
+  display_name: "金融材料学习教练"
+  short_description: "拆解金融教材与文章，分级重点、补足基础并用练习巩固理解"
+  default_prompt: "使用 $finance-material-coach 帮我拆解这段金融材料，从基础讲起并出一道练习。"
